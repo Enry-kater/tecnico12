@@ -142,9 +142,7 @@ CAMPIOS DE PANTALLA
     
 	<a href="Base Access China.html"></a> <br> 
 	
-	<A HREF="ernesto.html">  formulario  1  </A> <br>
-    <A HREF="iindex.html"> alegre  2  </A> <br>
-    <form>	
+		
 
 </body>
 
