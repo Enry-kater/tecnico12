@@ -73,7 +73,7 @@
 	<link rel="stylesheet" type="text/css" href="css/estilo.css" /> 
 	
   </style>
-</head>
+
 
 <body>
   <!-- Definimos el area del encabezado -->
@@ -88,13 +88,12 @@
   <div class="topnav">
     <a href="https://www.mined.gob.sv/" ><img src="logo.jpg" width="29" height="20"/><A HREF="ernesto.html">  Inicio de formulario  </A> <br></a>
 	        <!--p align="rigth">MINED -->
-width="29" height="20"/><A HREF="ARER.html">  Inicio de 
+ HREF="ARER.html">  Inicio de 
 <a href="#">NUESTROS SERVICIOS </a>
     <a href="#">SOBRE NOSOTROS </a>
 <a href="#">CONTACTENOS  </a>
 
-    </div>
-  </div>
+    
   <!-- inicio del piede de pagina -->
   <div class="footer">
     <p> <h8></h8> </p>
