@@ -126,7 +126,7 @@ CAMPIOS DE PANTALLA
   </div>
   <!-- inicio del piede de pagina -->
   <div class="footer">
-    <p> <h3></h3> </p>
+    <p> <h9></h9> </p>
 <img src="images (1).jfif" width="400" height="200"/>
 
   </div>  
