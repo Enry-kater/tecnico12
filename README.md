@@ -95,7 +95,7 @@
     
   <!-- inicio del piede de pagina -->
   <div class="footer">
-    <p> <h8></h7> </p>
+    <p> <h5></h5> </p>
 <a href="#">SISTEMA DE GESTION DE TALLERES  DE  REPARACIONES DE COMPUTADORAS Y CELULARES   </a>
 
   </div>
