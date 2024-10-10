@@ -136,7 +136,7 @@ CAMPIOS DE PANTALLA
   </div>  
   <audio controls> <source src="musica.m4a" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
  <img src="si (1).jfif" width="400" height="200"/>
-<img src="3.jfif" width="400" height="200"/>
+
 
      <video width="600" height="400" controls>
     <source src="compu.mp4" type="video/mp4">
