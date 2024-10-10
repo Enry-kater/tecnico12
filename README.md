@@ -65,7 +65,7 @@
 
     /* Pie de pagina */
     .footer {
-      background-color: GREY;
+      background-color: ;
       padding: 30px;
       text-align: center;  
     }
@@ -95,7 +95,6 @@
     
   <!-- inicio del piede de pagina -->
   <div class="footer">
-	  background-color: REB;
     <p> <h8></h8> </p>
 <a href="#">SISTEMA DE GESTION DE TALLERES  DE  REPARACIONES DE COMPUTADORAS Y CELULARES   </a>
 
