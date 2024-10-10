@@ -29,7 +29,7 @@
 
     /* Animacion para el menu */
     .topnav a:hover {
-      background-color: RED;
+      background-color: ;
       color: BLACK
     }
 
