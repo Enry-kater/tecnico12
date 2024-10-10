@@ -65,7 +65,7 @@
 
     /* Pie de pagina */
     .footer {
-      background-color: #f1f1f1;
+      background-color: BLUE;
       padding: 30px;
       text-align: center;  
     }
@@ -88,7 +88,7 @@
   <div class="topnav">
     <a href="https://www.mined.gob.sv/" ><img src="logo.jpg" width="29" height="20"/><A HREF="ernesto.html">  Inicio de formulario  </A> <br></a>
 	        <!--p align="rigth">MINED -->
- href="#">NUESTROS SERVICIOS </a>
+ NUESTROS SERVICIOS 
     <a href="#">SOBRE NOSOTROS </a>
 <a href="#">CONTACTENOS  </a>
 
