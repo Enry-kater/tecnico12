@@ -84,7 +84,7 @@
    
   <!-- Crear el menu -->
   <div class="topnav">
-    <a href="https://www.mined.gob.sv/" ><img src="logo.jpg" width="29" height="20"/><A HREF="ernesto.html">  Inicio de formulario  </A> <br></a>
+    <a href="https://www.mined.gob.sv/" ><img src="logo.jpg" width="29" height="20"/><A HREF="ernesto.html Inicio de formulario  </A> <br></a>
 	        <!--p align="rigth">MINED -->
  NUESTROS SERVICIOS 
     <a href="#">SOBRE NOSOTROS </a>
