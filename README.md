@@ -32,7 +32,7 @@
     /* Animacion para el menu */
     .topnav a:hover {
       background-color: RED;
-      color: BLUE
+      color: BLACK
     }
 
     /* Estilo para columnas */
@@ -65,7 +65,7 @@
 
     /* Pie de pagina */
     .footer {
-      background-color: PINK;
+      background-color: GREY;
       padding: 30px;
       text-align: center;  
     }
