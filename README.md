@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+
 <html lang="en">
-<body bgcolor="sky blue">
+<body bgcolor="GREEN">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>MI PAGINA WEED  DE P </title>
@@ -153,4 +153,4 @@ CAMPIOS DE PANTALLA
 
 </body>
 
-</html>`
+
