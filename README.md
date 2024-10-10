@@ -7,7 +7,7 @@
 
     .header {
       padding: 5,0px;
-      RED-color: RED;
+      RED-color:BLUE;
       text-align: center;
     }
 
