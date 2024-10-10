@@ -65,7 +65,7 @@
 
     /* Pie de pagina */
     .footer {
-      background-color: GREEN;
+      background-color: PINK;
       padding: 30px;
       text-align: center;  
     }
