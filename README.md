@@ -129,9 +129,6 @@ CAMPIOS DE PANTALLA
     <p> <h3></h3> </p>
 <img src="images (1).jfif" width="400" height="200"/>
 
-<img src="nueva .jpg.webp" width="400" height="200"/>
-<img src="nueva .jpg.webp" width="400" height="200"/>
-
   </div>  
   <audio controls> <source src="musica.m4a" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
  <img src="si (1).jfif" width="400" height="200"/>
