@@ -1,6 +1,5 @@
 
 <html lang="en">
-<body bgcolor="GREEN">
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>MI PAGINA WEED  DE P </title>
@@ -18,14 +17,14 @@
     /* estilo parar la base del menu */
     .topnav {
       overflow: hidden;
-      background-color: #333;
+      background-color: #FFFFF;
     }
 
     /* Enlaces del menu */
     .topnav a {
       float: left;
       display: block;
-      color: #F2F2F2;
+      color: #RED;
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
@@ -33,8 +32,8 @@
 
     /* Animacion para el menu */
     .topnav a:hover {
-      background-color: #ddd;
-      color: black
+      background-color: RED;
+      color: BLUE
     }
 
     /* Estilo para columnas */
