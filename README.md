@@ -9,14 +9,14 @@
 
     .header {
       padding: 5,0px;
-      RED-color: #f1f1f1;
+      RED-color: RED;
       text-align: center;
     }
 
     /* estilo parar la base del menu */
     .topnav {
       overflow: hidden;
-      background-color: #FFFFF;
+      background-color: BLUE;
     }
 
     /* Enlaces del menu */
@@ -88,8 +88,7 @@
   <div class="topnav">
     <a href="https://www.mined.gob.sv/" ><img src="logo.jpg" width="29" height="20"/><A HREF="ernesto.html">  Inicio de formulario  </A> <br></a>
 	        <!--p align="rigth">MINED -->
- HREF="ARER.html">  Inicio de 
-<a href="#">NUESTROS SERVICIOS </a>
+ href="#">NUESTROS SERVICIOS </a>
     <a href="#">SOBRE NOSOTROS </a>
 <a href="#">CONTACTENOS  </a>
 
