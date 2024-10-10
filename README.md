@@ -142,8 +142,5 @@ CAMPIOS DE PANTALLA
     
 	<a href="Base Access China.html"></a> <br> 
 	
-		
-
-</body>
 
 
