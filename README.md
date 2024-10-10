@@ -129,12 +129,12 @@ CAMPIOS DE PANTALLA
     <p> <h9></h9> </p>
 <img src="images (1).jfif" width="400" height="200"/>
 <img src="images (1).jfif" width="400" height="200"/>
-
-  </div>  
-  <audio controls> <source src="musica.m4a" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
  <img src="si (1).jfif" width="400" height="200"/>
   <img src="si (1).jfif" width="400" height="200"/>
 
+  </div>  
+  <audio controls> <source src="musica.m4a" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
+ 
 
      <video width="600" height="400" controls>
     <source src="compu.mp4" type="video/mp4">
