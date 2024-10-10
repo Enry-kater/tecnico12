@@ -63,7 +63,7 @@
 
     /* Pie de pagina */
     .footer {
-      background-color:WHITE;
+      background-color:RED;
       padding: 30px;
       text-align: center;  
     }
