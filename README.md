@@ -1,6 +1,3 @@
-<br
-</fieldset>	
-<html lang="en">
 
   <title>MI PAGINA WEED  DE P </title>
   <style>
@@ -148,7 +145,6 @@ CAMPIOS DE PANTALLA
 	<A HREF="ernesto.html">  formulario  1  </A> <br>
     <A HREF="iindex.html"> alegre  2  </A> <br>
     <form>	
-<html lang="en">
 
 </body>
 
